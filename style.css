@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    color: white;
+}
+
+label {
+    font-size: 3vh;
+}
+input {
+    width: 10vw;
+}
+button {
+    width: 5vw;
+    border: none;
+    background-color: purple;
+}
